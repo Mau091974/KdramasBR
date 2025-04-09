@@ -1,0 +1,276 @@
+[
+  {
+    "tipo": "serie",
+    "genero": "Romance",
+    "titulo": "True Beauty",
+    "resumo": "Uma estudante que usa maquiagem para esconder suas inseguranças...",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ItCKzW2eaYuH9lSrYklTwG0kPFk6ELlBKfenCaquCcb54rUujvZKEmz5GWiVcJcpP-oqRJNkC7E5qab9nRTISKgSUFndvd4oFhGNflNZgYlmxISTeQ7KlqXhkox0BZIm116Zuszpke6yxsKeJbvayvosrlu3NnQ-3nL4kA0xqLfIv676ovy6m0l5xA/s320/True%20Beauty.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/16gt-m0ryR-ehQlGYLrd1UgkM7o-pJ-4s/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/17BVlHD5J8Ghq4fGVU3qFfaZtFfN8G-6Z/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1qi37rQ3z5dD1Ze9tNy71azHPaK2FKgQn/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/15ZBAgZz7V-_yLLBSiHRFK7Wg9sje6mOr/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1W6Z2F_ib8pdOw6Y2TMNf5Nbf0bbBz8vs/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1X1gxpKjtrLTAMHMidIYdWpNQL1LOFYnu/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1ycSveR7PQwxWHT47jPM19v91j-HP7CO_/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1fi4CqSmGQor-Qri2rlhWOyzuemTB2GC3/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/18qZzufT46nbFaxNDk5k7KN3nk5ffdIj0/view" },
+          { "titulo": "Episódio 10", "link": "https://drive.google.com/file/d/1YLWmz2jl6l_xH2I5Vr5cQzfDh2gUti4g/view" },
+          { "titulo": "Episódio 11", "link": "https://drive.google.com/file/d/1P0INyUVLLMx0dkMHqmBL1e_gti8WuGSr/view" },
+          { "titulo": "Episódio 12", "link": "https://drive.google.com/file/d/1E0MFx3giEF2v-GAWeIMUHiOPv39IwN3l/view" },
+          { "titulo": "Episódio 13", "link": "https://drive.google.com/file/d/1uP-0-adrdqR71unhIeOr6lmG4fVR8ysF/view" },
+          { "titulo": "Episódio 14", "link": "https://drive.google.com/file/d/1E0BTJDgRgDYL3iHH4tUpswxjZoDJkll5/view" },
+          { "titulo": "Episódio 15", "link": "https://drive.google.com/file/d/1bF8Y7M7IKLsmW_QZ59xCnAtLSsEog_1L/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/1B5pcIZUb-Ea8mLz77Q4dNuh7cq3806q6/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "filme",
+    "genero": "ação",
+    "titulo": "Bogota: City of the Lost ",
+    "resumo": "Em busca de uma vida melhor, um jovem coreano se muda para Bogotá e se envolve no submundo do crime, arriscando tudo pela chance de alcançar o sucesso.",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUaPvx5lAY6BWy0CTX1051hiW02xje70CvYFl5yT8tT2FCg5tnIZ3k4OH8O3YScFB9D4WL6_Koak5Ke3jShuROc9ffiiohsY4XBnuKC4fyksC7LRNrYeeQHdAxMxWemVTHWr4HLx5Ck8zKGElHT9yl_XHHJu-mQN97K4RUeLESneHDspyaXEUACwrwGs1/w340/Bogota.jpg",
+    "episodios": [{ "titulo": "Filme Completo", "link": "https://drive.google.com/file/d/1EQLAdgBtd-an0t4xR4wGGFdMV3YhmE5a/view" }]
+  },  
+  {
+    "tipo": "filme",
+    "genero": "Suspense",
+    "titulo": "Parasite",
+    "resumo": "Uma família pobre se infiltra na vida de uma família rica...",
+    "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYpRXKCviSPoY67LA-zvIQYSfTIEnz6q_dQ&s",
+    "episodios": [{ "titulo": "Filme Completo", "link": "https://drive.google.com/file/d/1cVQoiFNT3jE3jcusZtbEUnR4Rv-HND4S/view" }]
+  },  
+  {
+    "tipo": "serie",
+    "genero": "Romance",
+    "titulo": "Descendants of the Sun",
+    "resumo": "Um romance entre um soldado e uma médica em um país devastado pela guerra...",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtHArFQRSeOypVQ0C_sfgLGi_G9RDMG9RQ5yFt7L9kmk8RwXgVei-iJYDjGnCZqeEwK9zz3W5iSlik9iJlgrmkWnS1-3WIsOc-p2XpDoOCFJjr3pt5eZ2HfGRYZAEGyW6zl0m2BDGj2BvjLP_d7z-4wL6YuarTzyITuRF02zimfSfy9EN_nucv3tPjV9KD/s320/vN26Zf.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1oCjCU_DDV4JRpr-0cznegMw69sIg7JRa/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/1dCE0O9sybQQ_p2bcce2xaqcHkudQDtDl/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1eZ8nLre8VMcpO-AEEcQrPjlY0UUw6IYz/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1U4R967EijTOVVkt3u-Uj6XFUrQ9jDCKP/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1NCZ0_rYgNac_B802vmMl6kqk7u__VL4X/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1Lhiv0uqMMq1XnH7cmkjYbCbuBBaj96yJ/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1rXIy53QnNB78L_kZ9L838CsNQxpKDhVW/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1QnqXLC_VBv4pkBEFTWCn14GfyJepzRRI/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/1Iuk0YiKg9--A5myrm5fc9FdoKgthtE5D/view" },
+          { "titulo": "Episódio 10", "link": "https://drive.google.com/file/d/1u7MguLEIH4sl2khkPpe7-9TWfBL9xFsq/view" },
+          { "titulo": "Episódio 11", "link": "https://drive.google.com/file/d/1mLy51dVWkDCdHnBFONCaDLzVbR83bZ6d/view" },
+          { "titulo": "Episódio 12", "link": "https://drive.google.com/file/d/1xmGpa0A34AbuXvbnFbCJg5NSzMuQsqbE/view" },
+          { "titulo": "Episódio 13", "link": "https://drive.google.com/file/d/14BDIiPQG8N4gIptL8vSgilNnBd-44Oro/view" },
+          { "titulo": "Episódio 14", "link": "https://drive.google.com/file/d/1KO7bTOzXiFHMJE6Nh2RLhV2jJ9uiUQel/view" },
+          { "titulo": "Episódio 15", "link": "https://drive.google.com/file/d/1crZK5AzR4-AhRCbHQd1h2KsrVZ7LjOkj/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/1cPT3sQKV6z7cQIxw-S4TFBKTxIuaPR1t/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "filme",
+    "genero": "Terror",
+    "titulo": "Train to Busan",
+    "resumo": "Um pai e sua filha lutam para sobreviver em um trem infestado de zumbis...",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8YOvW5dKR3tfJlqu2Yq_qoMzegvsewr0hbHdngugGk5FTkkxY0Rq5MkCq0MWOQ21PVkzkEi0oTQ6CbvVBUB4yf9QWsSIYji5g05gZyU1YfW2Vmmk1N8GayGz6bQiNsSuGCpxgNBiEc8X5EguDjZOP31_OqyICdczUqlPynsvcW_1QSYcl4s_RNfwWQ/s320/xklBrf.jpg",
+    "episodios": [{ "titulo": "Filme Completo", "link": "https://drive.google.com/file/d/1ubz7KZLpSrZU86Sf5RARQZ78DbQxe5cI/view" }]
+  },
+  {
+    "tipo": "serie",
+    "genero": "Fantasia",
+    "titulo": "Goblin",
+    "resumo": "Um goblin imortal precisa encontrar sua noiva humana para acabar com sua imortalidade...",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzAjnGnwHo3b5B1trBAKy0ORDVywiPK1KI51RFNAAr7GO2rsQffmIHHr9qt9C6pRIe0qs_MjLJPEXiCK8-7Ah166l2Zh4gjVGwqD1kRzu80ziOZO5zCXJuVA2L7xNBZSH3NXxqtApKiWw7s-5JNSKRrCuWqioMVKtcxT839_8QlT0D_mIf4zvatjD60gYK/s320/JkD8Xf.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1L_8pfHLE6XLfWRO5GHGwVkeGhpALPrOf/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/17DvA24-dPgKc6xJH6xQJukLPltFvt7iQ/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1dODZo3OO1TdILXDYDyeJJjsOmlBcBvqi/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1KEuj29oygbG-uya9Lbhf6L71FSAV2UUP/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/109R8yxJGu9qxvTRhPR4yOaxBcnL6McVp/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1WdbTrebzNYhDeOEjAiJxZyoDy6kafrXc/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1iqlEf01obwQKI_CIEG4ep5VYHMyJG4Pt/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1OtyboUigG9Onh8wrvSaW0qQJ9dZoeAEi/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/1uvvFPqAfWqvV0YwUWvaSQWZXsFMvQtu_/view" },
+          { "titulo": "Episódio 10", "link": "https://drive.google.com/file/d/1oYl6PJ1QHNoT_lFLRpf-yo2zYKeaUAHN/view" },
+          { "titulo": "Episódio 11", "link": "https://drive.google.com/file/d/1jDkai1jxqCGtnTZyBMoTRirfC5HmA-Gy/view" },
+          { "titulo": "Episódio 12", "link": "https://drive.google.com/file/d/14I4XrFz5W65PN88t4O_zDV-09dwwxUFr/view" },
+          { "titulo": "Episódio 13", "link": "https://drive.google.com/file/d/17YkutIh1q6wTTQ2L1UlRUBDEHQVy2P_U/view" },
+          { "titulo": "Episódio 14", "link": "https://drive.google.com/file/d/1F3yeLo4nC14XPiwSFZz59WAp7SvXxqUJ/view" },
+          { "titulo": "Episódio 15", "link": "https://drive.google.com/file/d/1vESA-HS1JjsSxpPaN9GuKLPl0nbhGENu/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/1MHcDaZjQx62Dcy4ckwOmSV1CMUf9de8e/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "serie",
+    "genero": "Fantasia",
+    "titulo": "Hotel Del Luna",
+    "resumo": "Convidado para gerenciar um hotel para almas penadas, ele acaba conhecendo a antiga proprietária do lugar e seu mundo sobrenatural.",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA65G5-bnHtmMn8Nch71NZtFiG-B3Jf_42V4E2TvXR7HKcmaK7Sq8cbjW2I8wKEFl3WjcTD2gjHceZ9Lw3uQE9Uh8VMnu_dE-1gDRNw5PQ4-dLpqx7-4955m0y3JoHegT7VCBpI8dfQKi-NMrjkOMyliPUNtEUUhZeSGiYbJmC9TlakB4dMIgaPLHL8VFQ/w340/Ub69UEP.png",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/15Cm5Wh_H5f3k-_hAhQd5tTtVX_DVqym5/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/1a3OmEBju_cSKEdublagwBEcfQzPgDLj-/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/193MGU8DttE_SCdvm7o8cTI2VZK3LXDOy/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1TyNvnvxj4Rv4TXUgy15MKGb7D1MsALmJ/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1nGDHEPKniUgQ777WB3DV_mtSYfYFZ0lQ/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1WdbTrebzNYhDeOEjAiJxZyoDy6kafrXc/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1oSYn_ks31I-DxxnnDYwMw3TlD5IY2CiZ/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1eI4HFZQtPEtKePziunIbVLg9jhEPwKJg/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/1rzrYc-FOsrZ8P3J4pi194dzRVuwtoz6j/view" },
+          { "titulo": "Episódio 10", "link": "https://drive.google.com/file/d/1oNqQ634A-1-4vdRZdHoyhH4ViAfqjPms/view" },
+          { "titulo": "Episódio 11", "link": "https://drive.google.com/file/d/12WMe2aYcnxcmjegwje3BgHy5PqBMaOEU/view" },
+          { "titulo": "Episódio 12", "link": "https://drive.google.com/file/d/1EI0vHCgNed0ZrOuJyic9FQKIcwsVh6F9/view" },
+          { "titulo": "Episódio 13", "link": "https://drive.google.com/file/d/1tHB6IojN7XwQEpkwSpDfD1X_0MDGW4DV/view" },
+          { "titulo": "Episódio 14", "link": "https://drive.google.com/file/d/1byrVf_hBhTcB1s2kw31s-ShakqrKpw44/view" },
+          { "titulo": "Episódio 15", "link": "https://drive.google.com/file/d/1IakQDd9myE5poMOIfoeaXOtyrelVHuXH/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/18BdI5-O-YG-4ONz0QJ1lY6McP1ZUGb2v/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "filme",
+    "genero": "ação",
+    "titulo": "Brave Citizen",
+    "resumo": "A história da heroína So Si Min, que já governou o país com suas habilidades de hapkido de alto nível como atleta do ensino médio. Sete anos depois, depois de se tornar professora em meio período, So Si Min se torna alvo do malvado estudante Han Su Kang.",
+    "miniatura": "https://cheiodedrama.com.br/wp-content/uploads/2023/12/brave-citizen.webp",
+    "episodios": [{ "titulo": "Filme Completo", "link": "https://drive.google.com/file/d/1WpYIKteG42PqtCMtMK16wVo62i-s619i/view" }]
+  },
+  {
+    "tipo": "serie",
+    "genero": "Escolar",
+    "titulo": "School 2021",
+    "resumo": "Na Geum Young é uma estudante de 17 anos de uma escola vocacional com especialização em culinária, cujo pai é dono de um karaokê na periferia da cidade. Kim Tae Jin é um ex-atleta de Taekwondo que ganhou uma medalha de bronze como representante júnior no Festival Nacional de Esportes da Coréia. Após uma grave lesão no tornozelo e o fracasso dos negócios de seu pai, ele deixou o Taekwondo e se transferiu para um colégio vocacional. Apesar de falar e agir como um adulto crescido, ele é um estudante inocente que não sabe o que fazer quando conhece a garota que gosta. A história acompanha a vida e o crescimento de Na Geum Young e Kim Tae Jin ao longo do percurso de se tornarem adultos.",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQvgvUbBhbSvbrw7HJAPGX6xWDtizlI7f5nYlBB7ScOa8U3By2tsmWu1gl-EGoRMeD-Yd5wnUEWli4Tudb2xLhBEKD4eixzN7kEl7XcXyLLUkDHeRPQyx_RJRMc8z5Y-6emF9DzQG-UzhujEYj1rUibzrbEbigwGMzTzGHlS1AV9BGrvAaPCWomkPgw/s320/School%202021.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1_sySHmSJAvHWTy_8THgfoJU7xm8wtUYs/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/1k5n-L6oWyCLsd1LCj7RwZWzg9VBhIvDx/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1w5wkQl3r7v2MFmWe-xBfNk7n04fTMi7d/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1V9AVeku4C3VRvmuws8At2FDxeoqJkC5W/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/150iHi77eXHv04Vn8yUWVkyqs6NMlAAt4/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1LNVsNagADC2W60pWvu8RWc5twphFWrY_/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1yS-L0WPnZ5e23Ye0oHWmoGYPr1m1ijQC/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1mUpJ7D0OYqVSm842-Jya6t-3MO7C94Sz/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/1gKdVE8TIVQ77LI_g8jGF6BHxgor4UEyN/view" },
+          { "titulo": "Episódio 10", "link": "https://drive.google.com/file/d/1AiGexJUa5GobydF4OuXBjuY5BZjVM7uj/view" },
+          { "titulo": "Episódio 11", "link": "https://drive.google.com/file/d/1uy62gZGP6QmrCFM3ZsnmI44ilsbnvKqn/view" },
+          { "titulo": "Episódio 12", "link": "https://drive.google.com/file/d/1cMxJXVtP6Cp9iLhYyA-siURWp-z1TyiN/view" },
+          { "titulo": "Episódio 13", "link": "https://drive.google.com/file/d/11izx5pSFUnWRclaormNUOq9J8yP-Zs2i/view" },
+          { "titulo": "Episódio 14", "link": "https://drive.google.com/file/d/1Vwhb5ryW4Tq6P2ftnXeICDG3aCOOBAuq/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/1HYLTnyzzdokxjTvciWQoA5GKP-c0rTrg/view" },
+          { "titulo": "Episódio 16", "link": "https://drive.google.com/file/d/1fEvmaCYJbfim8bxmTYhxdJquqXsmNYMl/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "filme",
+    "genero": "Ficcao",
+    "titulo": "Concrete Utopia",
+    "resumo": "A história acompanha aqueles que sobreviveram em uma cidade que foi à ruína depois que um grande terremoto destruiu todo o concreto.",
+    "miniatura": "https://cheiodedrama.com.br/wp-content/uploads/2023/10/concrete-utopia.webp",
+    "episodios": [{ "titulo": "Filme Completo", "link": "https://drive.google.com/file/d/12l9vU46q4DT_OaUERCFqnln_6U5SODTo/view" }]
+  },
+  {
+    "tipo": "serie",
+    "genero": "Drama",
+    "titulo": "Round 6",
+    "resumo": "Pessoas que falharam na vida e participam de um misterioso jogo de sobrevivência pela recompensa de 10 bilhões de won. O título \"Squid Games\" vem do jogo em que um atacante e um defensor se enfrentam em formas de círculo, triângulo e quadrado, como uma lula. Se um atacante rompe o zagueiro e entra no círculo, ou na cabeça da lula, ele vence..",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOpiqWBB-zTDr0R9pdSdmb1d5ZrfblDqwtPfvbFSPljlXkSiXqO2X2FBE1LOUa5EjMaWSP6iATKKrxboGP1iA52leX3I-Ecz6IOsI-GXsc91PA1veqaF93pBV83lMpzv8BrH-nB2ALNRqkeOkCX2Dw9d6D4NpT3xQKfxOoA0GjffjjXDQwZQySw3UX8g/s320/Round%206.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1Z6JummdutQmWsuUx57qFP2TmtXD8K39x/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/1gZfje5uB-rmv0RNnQXPUr1jyrM_1y5-C/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/12zji689gm7JOJ5TgCN6zpuLG9AEMpleh/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/12nFvYpOAmdHzwE35-eDjcV-ylz3_oUDD/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1fa3_iJhSprTN7vwGIBLfGcADEhX6KJR-/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1Xvx3q_7Ea2Tpc8sygFdv7MTqfhaOdF78/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1UZvexO-nsA9zoZM4q4_8ww_LWtbPV3bf/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/1HAty8BslXy4JrEUVXygI_1pZ0vCHBiRb/view" },
+          { "titulo": "Episódio 9", "link": "https://drive.google.com/file/d/1cfnX-KByxPPdvuOiQ28YSyx4Bb5bT8aA/view" }
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "show",
+    "genero": "Show",
+    "titulo": "PERMISSION TO DANCE ON STAGE – LA",
+    "resumo": "O roxo toma conta da cidade de Los Angeles com o show “Permission to Dance” do BTS no Estádio SoFi pela primeira vez em dois anos. Em um estádio que irradia empolgação e alegria, apresentações esplêndidas de “On” a “Permission to Dance” glorificam o palco que agora ganha vida nas telas. Unam-se novamente pelo poder da música.",
+    "miniatura": "https://cheiodedrama.com.br/wp-content/uploads/2023/01/PERMISSION-TO-DANCE-ON-STAGE.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1f0KHwF6Vvov0Y8SuPwRT3tCRbnGVzroz/view" }
+        
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "reality",
+    "genero": "Reality",
+    "titulo": "Single's Inferno",
+    "resumo": "Solteiros procurando amor em uma ilha deserta...",
+    "miniatura": "https://media.themoviedb.org/t/p/w188_and_h282_bestv2/lN2m8F2D6G0GdkHOMhitZpwNapE.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1VoORlzMNLdZB2G2cgrPBMe1B2a13QDmJ/view" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/15nua1jw4HhNX9_9v511Gd4G-VKkpEu6d/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1S4hBmcAgbfyg67qiwXjyPFL933zh7PHD/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1M8LWuBkWOnpHZIBuzPxAI-_PruyxOfaS/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1xuY1uo4VPQ-hRZKAmnGiw1QU4NrkoiJ7/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1SyFgdMvAII0iBfsnc8eN7boUfEE4nQ7R/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/1SyFgdMvAII0iBfsnc8eN7boUfEE4nQ7R/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/190bMBg2jn4rxsOAccg8pHv7PgiPOmrHq/view" }
+         
+        ]
+      }
+    ]
+  },
+  {
+    "tipo": "serie",
+    "genero": "Aventura",
+    "titulo": "My Name",
+    "resumo": "É sobre Yoon Ji Woo, membro da quadrilha do crime organizado que se disfarça como policial e guarda uma vingança fria em seu coração após a morte de seu pai. Choi Moo Jin é o chefe da Dong Cheon Pa, a maior rede de drogas da Coréia do Sul. Ele ajuda Yoon Ji Woo a se disfarçar por meio de vários métodos, mas seus verdadeiros motivos não são fáceis de ler. Jeon Pil Do é um detetive da polícia na Unidade de Investigação de Drogas. Ele é um defensor das regras e se torna parceiro de Yoon Ji Woo quando ela se junta à polícia. Cha Gi Ho, o líder da equipe da Unidade de Investigação de Drogas. Ele e Choi Moo Jin são inimigos há muito tempo, com Cha Gi Ho prometendo derrubar sua quadrilha antes de se aposentar. Jung Tae Joo é subordinado de Choi Moo Jin na quadrilha de drogas. Por causa de sua lealdade inabalável, ele é o capanga mais confiável de Choi Moo Jin. Do Kang Jae é um ex-membro da quadrilha. Após causar problemas e ser expulso da gangue, ele jurou vingança contra eles.",
+    "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibMBA1tABuXQAZWL_RmkNSgKpQEhujdfRbNXjbiOGZrZsXLaaID4auHf35Vl509-qf5V47TCJObviQTPLuVmBY5GhEMceV3OFy3yC4ggkImVoVqD1bZWSicJS3SAr7cCfC-UPQgoU9NVte1-pGT6fZtqlqMyJQ2v3enc69JzWJl7n4vI3MhymZShz1-Q/s320/my%20name.jpg",
+    "temporadas": [
+      {
+        "numero": 1,
+        "episodios": [
+          { "titulo": "Episódio 1", "link": "https://drive.google.com/file/d/1xJ7PQ4qsreMQjNLaLTjM9g7c0qADYisV/view?pli=1" },
+          { "titulo": "Episódio 2", "link": "https://drive.google.com/file/d/1c0cN7cd3V6rt9Rqk_dL5k2oPRFrvAG8t/view" },
+          { "titulo": "Episódio 3", "link": "https://drive.google.com/file/d/1VY9z7QnLWIEFetW0nH1Sv8alWKsj5wHj/view" },
+          { "titulo": "Episódio 4", "link": "https://drive.google.com/file/d/1pj-Tc6F0EMsDVVJ34DM-xvsTQBkZ6fNB/view" },
+          { "titulo": "Episódio 5", "link": "https://drive.google.com/file/d/1S_o-NIcCSgJvV-WEkUWTmMkCamK0n4-T/view" },
+          { "titulo": "Episódio 6", "link": "https://drive.google.com/file/d/1_zLVl3eMCv0jMZcn03CES6rPWE2H-I_f/view" },
+          { "titulo": "Episódio 7", "link": "https://drive.google.com/file/d/17rFxAryJvA6gWGv3OcV4hkKX_tLQHOCI/view" },
+          { "titulo": "Episódio 8", "link": "https://drive.google.com/file/d/17BVlHD5J8Ghq4fGVU3qFfaZtFfN8G-6Z/view" }
+        ]
+      }
+    ]
+  }
+]
