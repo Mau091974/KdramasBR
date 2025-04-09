@@ -1,40 +1,68 @@
 import { useEffect, useState } from 'react';
 import data from '../data/videos.json';
-import '../index copy.css'; // Importa o estilo Netflix
+import '../index copy.css'; // Estilo estilo Netflix
+
+interface Episodio {
+  titulo: string;
+  link: string;
+}
+
+interface Filme {
+  tipo: string;
+  titulo: string;
+  resumo: string;
+  miniatura: string;
+  genero: string;
+  episodios?: Episodio[];
+}
 
 const Filmes = () => {
-  const [filmes, setFilmes] = useState([]);
+  const [filmes, setFilmes] = useState<Filme[]>([]);
 
   useEffect(() => {
-    const filmesFiltrados = data.filter(video => video.tipo === 'filme');
+    const filmesFiltrados = data.filter((video: Filme) => video.tipo === 'filme');
     setFilmes(filmesFiltrados);
   }, []);
 
   return (
-    <div>
-      <h2 style={{ color: 'var(--accent-red)', textAlign: 'center' }}>Filmes</h2>
+    <div style={{ padding: '2rem' }}>
+      <h2 style={{ color: 'var(--accent-red)', textAlign: 'center', marginBottom: '2rem' }}>
+        Filmes
+      </h2>
 
       <div className="video-grid">
         {filmes.map((filme, index) => (
-          <div className="video-card" key={index}>
+          <div className="video-card" key={`${filme.titulo}-${index}`}>
             <img
               src={filme.miniatura}
               alt={filme.titulo}
               className="video-thumbnail"
+              style={{ borderRadius: '12px', width: '100%', height: 'auto' }}
             />
-            <div className="video-info">
+
+            <div className="video-info" style={{ marginTop: '0.5rem' }}>
               <strong>{filme.titulo}</strong>
               <p style={{ fontSize: '0.85rem', color: 'var(--gray)' }}>{filme.resumo}</p>
 
-              <div style={{ marginTop: '0.5rem' }}>
-                {filme.episodios?.map((ep, i) => (
-                  <div key={i}>
-                    <a href={ep.link} target="_blank" rel="noopener noreferrer">
-                      ▶ {ep.titulo}
-                    </a>
-                  </div>
-                ))}
-              </div>
+              {filme.episodios && (
+                <div style={{ marginTop: '0.5rem' }}>
+                  {filme.episodios.map((ep, i) => (
+                    <div key={`${ep.titulo}-${i}`}>
+                      <a
+                        href={ep.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: '#00f',
+                          textDecoration: 'none',
+                        }}
+                      >
+                        ▶ {ep.titulo}
+                      </a>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
           </div>
         ))}
