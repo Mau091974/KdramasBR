@@ -5,41 +5,37 @@ const Realities = () => {
   const realities = videos.filter(video => video.tipo === 'reality');
 
   return (
-    <div className="video-grid">
-      {realities.map((reality, index) => (
-        <div className="video-card" key={index}>
-          <img
-            src={reality.miniatura}
-            alt={reality.titulo}
-            className="video-thumbnail"
-          />
-          <div className="video-info">
-            <h3>{reality.titulo}</h3>
-            <p><strong>Gênero:</strong> {reality.genero}</p>
-            <p>{reality.resumo}</p>
+    <div>
+      
+      <div className="video-grid">
+        {realities.map((reality, index) => (
+          <div className="video-card" key={index}>
+            <img
+              src={reality.miniatura}
+              alt={reality.titulo}
+              className="video-thumbnail"
+            />
+            <div className="video-info">
+              <strong>{reality.titulo}</strong>
+              <p><strong>Gênero:</strong> {reality.genero}</p>
+              <p style={{ fontSize: '0.85rem', color: 'var(--gray)' }}>{reality.resumo}</p>
 
-            {reality.temporadas && (
-              <div style={{ marginTop: '1rem' }}>
-                <h4>Temporadas</h4>
-                {reality.temporadas.map((temp, tIndex) => (
-                  <div key={tIndex}>
-                    <h5>{temp.titulo}</h5>
-                    <ul>
-                      {temp.episodios.map((ep, eIndex) => (
-                        <li key={eIndex}>
-                          <a href={ep.link} target="_blank" rel="noopener noreferrer">
-                            {ep.titulo}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                ))}
-              </div>
-            )}
+              {reality.temporadas?.map((temp, tIndex) => (
+                <div key={tIndex} style={{ marginTop: '1rem' }}>
+                 
+                  {temp.episodios?.map((ep, eIndex) => (
+                    <div key={eIndex}>
+                      <a href={ep.link} target="_blank" rel="noopener noreferrer">
+                        ▶ {ep.titulo}
+                      </a>
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
+      </div>
     </div>
   );
 };

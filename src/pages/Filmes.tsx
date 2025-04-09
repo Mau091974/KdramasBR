@@ -26,9 +26,7 @@ const Filmes = () => {
 
   return (
     <div style={{ padding: '2rem' }}>
-      <h2 style={{ color: 'var(--accent-red)', textAlign: 'center', marginBottom: '2rem' }}>
-        Filmes
-      </h2>
+    
 
       <div className="video-grid">
         {filmes.map((filme, index) => (
