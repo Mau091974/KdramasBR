@@ -30,34 +30,32 @@ const BuscaTMDB = () => {
   };
 
   return (
-    <div style={{ marginBottom: '2rem', padding: '1rem' }}>
+    <div style={{ padding: '1rem 2rem' }}>
       <h2 style={{ marginBottom: '1rem' }}>🎥 Buscar Filmes/Séries</h2>
 
-      {resultados.length === 0 ? (
-        <>
-          <input
-            type="text"
-            placeholder="Digite o nome do filme ou série"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            style={{
-              padding: '0.5rem',
-              marginRight: '0.5rem',
-              borderRadius: '4px',
-              border: '1px solid #ccc',
-            }}
-          />
-          <button onClick={buscar} style={{ padding: '0.5rem 1rem' }}>
-            Buscar
-          </button>
-        </>
-      ) : (
-        <button onClick={voltar} style={{ marginBottom: '1rem' }}>
-          🔙 Voltar
-        </button>
-      )}
+      <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
+        {resultados.length === 0 ? (
+          <>
+            <input
+              type="text"
+              placeholder="Digite o nome do filme ou série"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              className="input-cadastro"
+              style={{ maxWidth: '300px' }}
+            />
+            <button onClick={buscar}>Buscar</button>
+          </>
+        ) : (
+          <button onClick={voltar}>🔙 Voltar</button>
+        )}
+      </div>
 
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
+      {/* Grade dos resultados */}
+      <div
+        className="video-grid"
+        style={{ marginTop: '2rem' }}
+      >
         {resultados.map((item) => (
           <DetalhesItem key={item.id} id={item.id} mediaType={item.media_type} />
         ))}

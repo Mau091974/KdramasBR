@@ -18,23 +18,26 @@ const Login = ({ onLogin }: { onLogin: () => void }) => {
   };
 
   return (
-    <div style={{ padding: 30 }}>
+    <div className="cadastro-container">
       <h2>Login</h2>
       <input
+        type="text"
         placeholder="Usuário"
         value={user}
         onChange={(e) => setUser(e.target.value)}
-        style={{ height: '40px', fontSize: '16px', padding: '10px', marginBottom: '10px', width: '80%' }}
+        className="input-cadastro"
       />
       <input
         type="password"
         placeholder="Senha"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
-        style={{ height: '40px', fontSize: '16px', padding: '10px', marginBottom: '5px', width: '80%' }}
+        className="input-cadastro"
       />
-      <button onClick={handleLogin} style={{ padding: '10px 20px', fontSize: '16px' }}>Entrar</button>
-      {error && <p style={{ color: 'red' }}>{error}</p>}
+      <div className="botoes">
+        <button onClick={handleLogin}>Entrar</button>
+      </div>
+      {error && <p className="mensagem" style={{ color: '#ff4c4c' }}>{error}</p>}
     </div>
   );
 };
