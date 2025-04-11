@@ -1,11 +1,20 @@
-import { Link } from 'react-router-dom';
-import './Menu.css';
+// src/components/Menu.tsx
+import { Link, useNavigate } from 'react-router-dom';
+import '../index.css';
 
 const Menu = () => {
+  const navigate = useNavigate();
+
+  const handleLogout = () => {
+    localStorage.removeItem('isLoggedIn');
+    navigate('/');
+    window.location.reload(); // Força atualização para voltar ao estado inicial
+  };
+
   return (
     <nav className="menu">
       <div className="menu-left">
-        <span className="logo">KdramasBR</span>
+        <Link to="/" className="logo">KdramasBR</Link>
 
         <div className="menu-item">
           <span>Filmes</span>
@@ -31,6 +40,12 @@ const Menu = () => {
         <Link to="/realities">Realities</Link>
         <Link to="/contato">Contato</Link>
         <Link to="/privacidade">Privacidade</Link>
+      </div>
+
+      <div className="menu-right">
+        <button onClick={handleLogout} className="logout-button">
+          Sair
+        </button>
       </div>
     </nav>
   );

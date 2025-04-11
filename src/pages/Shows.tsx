@@ -1,5 +1,5 @@
 import videos from '../data/videos.json';
-import '../index copy.css'; // Certifique-se que o CSS está presente
+import '../index.css'; // Certifique-se que o CSS está presente
 
 const Shows = () => {
   const shows = videos.filter(video => video.tipo === 'show');

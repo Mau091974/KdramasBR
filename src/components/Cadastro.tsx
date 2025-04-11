@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import '../index copy.css'; // certifique-se que esse CSS está importado
+import '../index.css'; // certifique-se que esse CSS está importado
 
 const Cadastro = ({ onVoltar }: { onVoltar: () => void }) => {
   const [novoUsuario, setNovoUsuario] = useState('');

@@ -31,7 +31,7 @@
   },
   {
     "tipo": "filme",
-    "genero": "ação",
+    "genero": "Acao",
     "titulo": "Bogota: City of the Lost ",
     "resumo": "Em busca de uma vida melhor, um jovem coreano se muda para Bogotá e se envolve no submundo do crime, arriscando tudo pela chance de alcançar o sucesso.",
     "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUaPvx5lAY6BWy0CTX1051hiW02xje70CvYFl5yT8tT2FCg5tnIZ3k4OH8O3YScFB9D4WL6_Koak5Ke3jShuROc9ffiiohsY4XBnuKC4fyksC7LRNrYeeQHdAxMxWemVTHWr4HLx5Ck8zKGElHT9yl_XHHJu-mQN97K4RUeLESneHDspyaXEUACwrwGs1/w340/Bogota.jpg",
@@ -39,7 +39,7 @@
   },  
   {
     "tipo": "filme",
-    "genero": "Suspense",
+    "genero": "ação",
     "titulo": "Parasite",
     "resumo": "Uma família pobre se infiltra na vida de uma família rica...",
     "miniatura": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYpRXKCviSPoY67LA-zvIQYSfTIEnz6q_dQ&s",
@@ -77,7 +77,7 @@
   },
   {
     "tipo": "filme",
-    "genero": "Terror",
+    "genero": "ação",
     "titulo": "Train to Busan",
     "resumo": "Um pai e sua filha lutam para sobreviver em um trem infestado de zumbis...",
     "miniatura": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8YOvW5dKR3tfJlqu2Yq_qoMzegvsewr0hbHdngugGk5FTkkxY0Rq5MkCq0MWOQ21PVkzkEi0oTQ6CbvVBUB4yf9QWsSIYji5g05gZyU1YfW2Vmmk1N8GayGz6bQiNsSuGCpxgNBiEc8X5EguDjZOP31_OqyICdczUqlPynsvcW_1QSYcl4s_RNfwWQ/s320/xklBrf.jpg",
@@ -145,7 +145,7 @@
   },
   {
     "tipo": "filme",
-    "genero": "ação",
+    "genero": "comedia",
     "titulo": "Brave Citizen",
     "resumo": "A história da heroína So Si Min, que já governou o país com suas habilidades de hapkido de alto nível como atleta do ensino médio. Sete anos depois, depois de se tornar professora em meio período, So Si Min se torna alvo do malvado estudante Han Su Kang.",
     "miniatura": "https://cheiodedrama.com.br/wp-content/uploads/2023/12/brave-citizen.webp",

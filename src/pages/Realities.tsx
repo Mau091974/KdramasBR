@@ -1,5 +1,5 @@
 import videos from '../data/videos.json';
-import '../index copy.css'; // Garante que o estilo seja aplicado
+import '../index.css'; // Garante que o estilo seja aplicado
 
 const Realities = () => {
   const realities = videos.filter(video => video.tipo === 'reality');

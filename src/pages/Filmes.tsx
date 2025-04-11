@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import data from '../data/videos.json';
-import '../index copy.css'; // Estilo estilo Netflix
+//import '../index copy.css'; // Estilo estilo Netflix
 
 interface Episodio {
   titulo: string;
@@ -18,15 +19,30 @@ interface Filme {
 
 const Filmes = () => {
   const [filmes, setFilmes] = useState<Filme[]>([]);
+  const location = useLocation();
+
+  const generoSelecionado = new URLSearchParams(location.search).get('genero');
 
   useEffect(() => {
-    const filmesFiltrados = data.filter((video: Filme) => video.tipo === 'filme');
+    const filmesFiltrados = data.filter((video: Filme) => {
+      const ehFilme = video.tipo === 'filme';
+      const generoCorresponde = generoSelecionado
+        ? video.genero.toLowerCase() === generoSelecionado.toLowerCase()
+        : true;
+
+      return ehFilme && generoCorresponde;
+    });
+
     setFilmes(filmesFiltrados);
-  }, []);
+  }, [generoSelecionado]);
 
   return (
     <div style={{ padding: '2rem' }}>
-    
+      <h2 style={{ marginBottom: '1rem' }}>
+        {generoSelecionado
+          ? `Filmes de ${generoSelecionado.charAt(0).toUpperCase() + generoSelecionado.slice(1)}`
+          : 'Todos os Filmes'}
+      </h2>
 
       <div className="video-grid">
         {filmes.map((filme, index) => (
