@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import '../index copy.css';
+import './Menu.css';
 
 const Menu = () => {
   return (
@@ -7,7 +7,7 @@ const Menu = () => {
       <div className="menu-left">
         <span className="logo">KdramasBR</span>
 
-        <div className="menu-item" onMouseEnter={showDropdown} onMouseLeave={hideDropdown}>
+        <div className="menu-item">
           <span>Filmes</span>
           <div className="dropdown">
             <Link to="/filmes">Todos</Link>
@@ -17,7 +17,7 @@ const Menu = () => {
           </div>
         </div>
 
-        <div className="menu-item" onMouseEnter={showDropdown} onMouseLeave={hideDropdown}>
+        <div className="menu-item">
           <span>Séries</span>
           <div className="dropdown">
             <Link to="/series">Todas</Link>
@@ -34,16 +34,6 @@ const Menu = () => {
       </div>
     </nav>
   );
-};
-
-const showDropdown = (e: React.MouseEvent<HTMLDivElement>) => {
-  const dropdown = e.currentTarget.querySelector('.dropdown') as HTMLElement;
-  if (dropdown) dropdown.style.display = 'block';
-};
-
-const hideDropdown = (e: React.MouseEvent<HTMLDivElement>) => {
-  const dropdown = e.currentTarget.querySelector('.dropdown') as HTMLElement;
-  if (dropdown) dropdown.style.display = 'none';
 };
 
 export default Menu;

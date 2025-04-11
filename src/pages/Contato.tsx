@@ -10,7 +10,7 @@ const Contato: React.FC = () => {
     e.preventDefault();
 
     // Substitua essa URL pelo seu endpoint do Formspree
-    const endpoint = 'https://formspree.io/f/xgeplrkb'; // exemplo
+    const endpoint = 'https://formspree.io/f/xnnplegj'; // exemplo
 
     const res = await fetch(endpoint, {
       method: 'POST',

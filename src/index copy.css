@@ -225,3 +225,82 @@ button:hover {
   font-size: 0.95rem;
   color: #00ff9f;
 }
+.home-container {
+  padding: 1rem;
+}
+
+.logout-button {
+  float: right;
+  padding: 0.5rem 1.2rem;
+  font-size: 1rem;
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.logout-button:hover {
+  background-color: #d9363e;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  background-color: #141414;
+  color: white;
+  gap: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.menu-left {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  position: relative;
+}
+
+.menu-item {
+  position: relative;
+  cursor: pointer;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.menu-item:hover .dropdown {
+  display: block;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  background-color: #1c1c1c;
+  padding: 0.5rem;
+  border-radius: 4px;
+  z-index: 999;
+}
+
+.dropdown a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.dropdown a:hover {
+  background-color: #333;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #e50914;
+}
+

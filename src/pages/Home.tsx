@@ -1,12 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Menu from '../components/Menu';
-import Filmes from './Filmes';
-import Series from './Series';
-import Shows from './Shows';
-import Realities from './Realities';
-import Contato from './Contato';
-import Privacidade from './Privacidade';
+import Filmes from '../pages/Filmes';
+import Series from '../pages/Series';
+import Shows from '../pages/Shows';
+import Realities from '../pages/Realities';
+import Contato from '../pages/Contato';
+import Privacidade from '../pages/Privacidade';
+import '../index copy.css';
 
 type HomeProps = {
   onLogout: () => void;
@@ -15,8 +16,8 @@ type HomeProps = {
 const Home: React.FC<HomeProps> = ({ onLogout }) => {
   return (
     <Router>
-      <div style={{ padding: '1rem' }}>
-        <button onClick={onLogout} style={{ float: 'right' }}>Sair</button>
+      <div className="home-container">
+        <button className="logout-button" onClick={onLogout}>Sair</button>
         <Menu />
 
         <Routes>
